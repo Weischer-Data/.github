@@ -4,7 +4,7 @@ about: Diese Vorlage dient der Standardisierung von Github-Issue-Formulierungen 
 title: "[FEATURE]"
 labels: ''
 assignees: ''
-
+type: Feature
 ---
 
 **[User Story](https://www.atlassian.com/agile/project-management/user-stories):**
