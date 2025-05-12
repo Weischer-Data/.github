@@ -4,6 +4,7 @@ about: Diese Vorlage dient der Standardisierung von Github-Issue-Formulierungen 
 title: "[BUG]"
 labels: ''
 assignees: ''
+type: Bug
 
 ---
 
