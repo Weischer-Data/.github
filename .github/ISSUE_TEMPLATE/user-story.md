@@ -1,5 +1,5 @@
 ---
-name: User Story
+name: Feature
 about: Diese Vorlage dient der Standardisierung von Github-Issue-Formulierungen für User Stories
 title: "[FEATURE]"
 labels: ''
